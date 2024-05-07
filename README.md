@@ -8,7 +8,7 @@ Desenvolvido no [Electron Fiddle](https://www.electronjs.org/pt/fiddle).
 
 ## Módulos utilizados:
 
-- [Electron](https://releases.electronjs.org/) 29.1.6
+- [Electron](https://releases.electronjs.org/) 30.0.1
 - [update-electron-app](https://www.npmjs.com/package/update-electron-app) 2.0.1
 - [electron-store](https://www.npmjs.com/package/electron-store) 8.2.0
 - [electron-squirrel-startup](https://www.npmjs.com/package/electron-squirrel-startup) 1.0.0
