@@ -8,3 +8,7 @@
 - Efetuada correção para salvar assunto e descrição quando há edição das informações
 - Se as etapas salvas estiverem sendo executadas, não permite a abertura de nenhuma janela da aplicação
 - Exibe a mensagem "Etapas em execução" no menu quando as etapas estão em execução
+
+# v1.0.3
+- SGRA passa a gravar logs
+- Correção de erro que impedia a edição das etapas
