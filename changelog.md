@@ -12,3 +12,9 @@
 # v1.0.3
 - SGRA passa a gravar logs
 - Correção de erro que impedia a edição das etapas
+
+# v1.0.4
+- Aplicação passa a permitir múltiplas configurações
+- Inseridos botões para recolher ou expandir as seções da tela de configuração de etapas
+- Uma nova tela principal foi desenvolvida. É possível definir se a aplicação continuará em execução e também definir a ordem de execução das configurações e o tempo de espera até o início da execução automática
+- Removida a funcionalidade testar etapas
