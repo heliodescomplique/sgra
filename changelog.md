@@ -18,3 +18,8 @@
 - Inseridos botões para recolher ou expandir as seções da tela de configuração de etapas
 - Uma nova tela principal foi desenvolvida. É possível definir se a aplicação continuará em execução e também definir a ordem de execução das configurações e o tempo de espera até o início da execução automática
 - Removida a funcionalidade testar etapas
+
+# v1.0.5
+- Correção de erro FormData is not defined
+- Ajuste no envio de informação para as janelas
+- Verificação de versão do Electron para definição do repositório para atualização automática
