@@ -23,3 +23,6 @@
 - Correção de erro FormData is not defined
 - Ajuste no envio de informação para as janelas
 - Verificação de versão do Electron para definição do repositório para atualização automática
+
+# v1.0.6
+- Correção de erro ao editar etapas (informações da configuração não eram carregadas)
