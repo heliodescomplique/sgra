@@ -26,3 +26,6 @@
 
 # v1.0.6
 - Correção de erro ao editar etapas (informações da configuração não eram carregadas)
+
+# v1.0.7
+- Inseridas funcionalidades para exclusão de configuração e ação
