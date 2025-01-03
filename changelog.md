@@ -29,3 +29,8 @@
 
 # v1.0.7
 - Inseridas funcionalidades para exclusão de configuração e ação
+
+# v1.0.8
+- Ajuste no carregamento das etapas na tela de edição (em alguns casos, o carregamento causava erro e impossibilitava a edição)
+- Downgrade de versão do módulo jimp (uso da versão 1.1.4 causou erro "TypeError: Jimp is not a constructor")
+- Remoção do modo de compatibilidade
