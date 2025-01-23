@@ -34,3 +34,7 @@
 - Ajuste no carregamento das etapas na tela de edição (em alguns casos, o carregamento causava erro e impossibilitava a edição)
 - Downgrade de versão do módulo jimp (uso da versão 1.1.4 causou erro "TypeError: Jimp is not a constructor")
 - Remoção do modo de compatibilidade
+
+# v1.0.9
+- Correção de erro ao cadastrar etapas pela primeira vez (ou quando não há nenhuma configuração existente)
+- Correção de erro quando o diretório para salvar os prints não foi definido ou não possui arquivos
