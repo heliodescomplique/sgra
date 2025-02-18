@@ -38,3 +38,11 @@
 # v1.0.9
 - Correção de erro ao cadastrar etapas pela primeira vez (ou quando não há nenhuma configuração existente)
 - Correção de erro quando o diretório para salvar os prints não foi definido ou não possui arquivos
+
+# v1.0.10
+- Inserido campo para informar observação em cada ação
+- Inserido campo para informar múltiplos destinatários de e-mail para cada configuração
+- Campos de senha movidos para a tela principal
+- Inserida opção para exibir a última etapa executada
+- Inserida opção para definir se a senha deve ser solicitada ao iniciar e/ou ao configurar as etapas
+- Ajustes na validação das etapas e configurações
