@@ -50,3 +50,6 @@
 # v1.0.11
 - Removida opção para exibir a última etapa executada
 - Passa a exibir a opção **sair** no menu quando as etapas estão em execução
+
+# v1.0.12
+- Downgrade robotjs

@@ -13,5 +13,5 @@ Desenvolvido no [Electron Fiddle](https://www.electronjs.org/pt/fiddle).
 - [electron-store](https://www.npmjs.com/package/electron-store) 8.2.0
 - [electron-squirrel-startup](https://www.npmjs.com/package/electron-squirrel-startup) 1.0.1
 - [jimp](https://www.npmjs.com/package/jimp) 0.22.12
-- [@jitsi/robotjs](https://www.npmjs.com/package/@jitsi/robotjs) 0.6.16
+- [@jitsi/robotjs](https://www.npmjs.com/package/@jitsi/robotjs) 0.6.13
 - [electron-log](https://www.npmjs.com/package/electron-log) 5.3.4
