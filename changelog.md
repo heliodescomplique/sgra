@@ -46,3 +46,7 @@
 - Inserida opção para exibir a última etapa executada
 - Inserida opção para definir se a senha deve ser solicitada ao iniciar e/ou ao configurar as etapas
 - Ajustes na validação das etapas e configurações
+
+# v1.0.11
+- Removida opção para exibir a última etapa executada
+- Passa a exibir a opção **sair** no menu quando as etapas estão em execução
